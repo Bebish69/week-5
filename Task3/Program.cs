@@ -1,10 +1,13 @@
-﻿namespace Task3
+﻿class Program
 {
-    internal class Program
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            Console.WriteLine("Hello, World!");
-        }
+        Printer printer = new Printer();
+
+        printer.Print("Hello World");
+        printer.Print(123);
+        printer.Print("Repeat me", 3);
+
+        Console.ReadLine();
     }
 }

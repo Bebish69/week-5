@@ -1,5 +1,8 @@
 <Solution>
+  <Project Path="Task 4/Task3polymorphism.csproj" Id="4fe7a55e-0fa4-48cb-928b-047f241f5645" />
   <Project Path="Task1/Task1.csproj" />
   <Project Path="Task3/Task3.csproj" />
+  <Project Path="task4/Task4.csproj" Id="83fad87c-02e5-453a-91e6-eee96990cb91" />
+  <Project Path="Task5/Task5.csproj" Id="7da79e2e-1ada-4cd5-b5fa-a346cda0b061" />
   <Project Path="week 5/Task2.csproj" />
 </Solution>
