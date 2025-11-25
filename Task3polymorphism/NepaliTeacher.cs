@@ -1,4 +1,5 @@
-﻿
+﻿using System;
+
 public class NepaliTeacher : Teacher
 {
     public override void Teaching()
